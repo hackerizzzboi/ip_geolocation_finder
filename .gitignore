@@ -1,0 +1,13 @@
+# Files
+setup.py
+Test.py
+Main.py
+.DS_Store
+*.pyc
+
+# Directories
+__pycache__/
+build/
+dist/
+IPGeolocation/
+ip_geolocation_api_sdk.egg-info/
